@@ -234,7 +234,7 @@ Source Code & Dataset/
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - free to use, modify, and distribute.
+This project is licensed under the **MIT License**. Free to use, modify, and distribute.
 
 ---
 
