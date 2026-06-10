@@ -1,6 +1,6 @@
 # 🩺 Diabetes Prediction Analysis
 
-> A professional Machine Learning project that predicts diabetes risk using Pima Indians patient medical data. Built with Python, Scikit-Learn, and Ensemble Learning techniques.
+> A Machine Learning project that predicts diabetes risk using Pima Indians patient medical data. Built with Python, Scikit-Learn, and Ensemble Learning techniques.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.5+-orange?style=flat-square&logo=scikit-learn)
