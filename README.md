@@ -174,7 +174,7 @@ pip install pandas matplotlib seaborn scikit-learn jupyter
 
 ### Run Jupyter Notebook
 ```bash
-jupyter notebook "Diabetes_Prediction_Analysis.ipynb.ipynb"
+jupyter notebook "Diabetes_Prediction_Analysis.ipynb"
 ```
 
 Open your browser and run all cells sequentially. The notebook will:
