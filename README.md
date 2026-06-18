@@ -206,7 +206,7 @@ Source Code & Dataset/
 │
 ├── diabetes.csv                                <- Pima Indians Diabetes Dataset (768 samples)
 │
-├── Diabetes_Prediction_Analysis.ipynb.ipynb     <- Main notebook: EDA, training, evaluation & prediction
+├── Diabetes_Prediction_Analysis.ipynb     <- Main notebook: EDA, training, evaluation & prediction
 │
 ├── Output Image/
 │   ├── Heatmap Korelasi.png                    <- Correlation heatmap of medical features
